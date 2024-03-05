@@ -1,4 +1,13 @@
 h1 {
     text-align: center;
-    
+
 }
+ img {
+     width: 100px; /* Ancho deseado */
+    height: auto; /* Altura ajustada automáticamente para mantener la proporción */
+  }
+    
+  table{
+    text-align: center;
+}
+  
